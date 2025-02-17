@@ -1,11 +1,25 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
+      "id": "0d8e",
+      "nombre": "Christian Efrain",
+      "email": "efrainska5@gmail.com",
+      "telefono": "4622892420",
+      "empresa": "TI Soluciones"
+    },
+    {
+      "id": "c17a",
+      "nombre": "Karla Fonseca",
+      "email": "karla@correo.com",
+      "telefono": "1234567891",
+      "empresa": "TI Soluciones"
+    },
+    {
+      "id": "b8d2",
+      "nombre": "Miguel",
+      "email": "correo@correo.com",
+      "telefono": "9876543215",
+      "empresa": "TI Soluciones"
     }
   ]
 }

@@ -1,0 +1,1 @@
+// Partials y Currying - Currying es dividir una funcion que toma mas de un parametro en argumentos de forma parcial
